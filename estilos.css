@@ -1,0 +1,17 @@
+img {
+    width:200px;
+    height: 200px;
+}
+.container{
+    padding:20px;
+}
+.red{
+    background-color: red;
+    color:#FFF;
+}
+button{
+    margin-top:40px;
+}
+.valor{
+    background-color: aqua;
+}
